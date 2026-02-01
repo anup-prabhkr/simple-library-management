@@ -55,4 +55,4 @@ library-management-system/
 ├── images/home.png
 └── README.md
 
-![Dashboard](home.png)
+![Dashboard](images/home.png)
