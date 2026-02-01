@@ -54,5 +54,5 @@ library-management-system/
 ├── book1.json
 ├── images/home.png
 └── README.md
-
-![Dashboard](images/home.png)
+```
+![Home Screen](images/home.png)
