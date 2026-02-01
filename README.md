@@ -47,10 +47,12 @@ The application provides a clean and user-friendly GUI for:
 
 ## 📂 Project Structure
 
+```text
 library-management-system/
 │
 ├── main.py
 ├── book1.json
+├── images/home.png
 └── README.md
 
 ![Dashboard](home.png)
